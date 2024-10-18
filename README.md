@@ -1,2 +1,2 @@
--These are all of my coding scripts from freecodecamp(🔥)
+-These are all of my codes from freecodecamp(🔥)
 
