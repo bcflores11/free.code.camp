@@ -19,3 +19,5 @@
 -Nutrition Label: <a href="https://github.com/bcflores11/free.code.camp/blob/main/nutritionlabel.html">nutritionlabel.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/nutritionlabel.css">nutritionlabel.css</a>
 
 -Accessibility Quiz: <a href="https://github.com/bcflores11/free.code.camp/blob/main/accessibilityquiz.html">accessibilityquiz.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/accessibilityquiz.css">accessibilityquiz.css</a>
+
+-Tribute Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.html">tributepage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.css">tributepage.css</a>
