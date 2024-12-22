@@ -1,0 +1,25 @@
+body {
+  background-color: #989898;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h4, .img-caption {
+text-align: center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p, h3{
+  text-align: left;
+  margin-right: 20px;
+}
