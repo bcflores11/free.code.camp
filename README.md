@@ -23,3 +23,5 @@
 -Tribute Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.html">tributepage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.css">tributepage.css</a>
 
 -Ballance Sheet: <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.html">ballancesheet.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.css">ballancesheet.css</a>
+
+-Cat Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.html">catpainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.css">catpainting.css</a>
