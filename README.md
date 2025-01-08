@@ -25,3 +25,5 @@
 -Ballance Sheet: <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.html">ballancesheet.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.css">ballancesheet.css</a>
 
 -Cat Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.html">catpainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.css">catpainting.css</a>
+
+-Piano: <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.html">piano.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.css">piano.css</a>
