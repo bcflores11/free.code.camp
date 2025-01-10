@@ -28,4 +28,4 @@
 
 - Piano: <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.html">piano.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.css">piano.css</a>
 
-- Technical Documentation Page - Tim Cook Biography: <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.html">timcook.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.css">timcook.css</a>
+- Tim Cook Biography: <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.html">timcook.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.css">timcook.css</a>
