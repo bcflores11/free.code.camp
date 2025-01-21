@@ -31,3 +31,5 @@
 - Tim Cook Biography: <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.html">timcook.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.css">timcook.css</a>
 
 - City Skyline: <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.html">cityskyline.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.css">cityskyline.css</a>
+
+- Magazine: <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.html">magazine.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.css">magazine.css</a>
