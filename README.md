@@ -4,25 +4,25 @@
 
 - Cat App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catapp.html">catapp.html</a>
 
-- Cafe Menu: <a href="https://github.com/bcflores11/free.code.camp/blob/main/cafemenu.html">cafemenu.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/cafemenu.css">cafemenu.css</a>
+- Cafe Menu: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/cafemenu.html">cafemenu.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/cafemenu.css">cafemenu.css</a>
 
-- CSS Color Markers: <a href="https://github.com/bcflores11/free.code.camp/blob/main/csscolormarkers.html">csscolormarkers.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/csscolormarkers.css">csscolormarkers.css</a>
+- CSS Color Markers: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/csscolormarkers.html">csscolormarkers.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/csscolormarkers.css">csscolormarkers.css</a>
 
-- Registration Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/registrationform.html">registrationform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/registrationform.css">registrationform.css</a>
+- Registration Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/registrationform.html">registrationform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/registrationform.css">registrationform.css</a>
 
-- Build A Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/buildaserveyform.html">buildasurveyform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/buildasurveyform.css">buildasurveyform.css</a>
+- Build A Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildaserveyform.html">buildasurveyform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildasurveyform.css">buildasurveyform.css</a>
 
-- Rothko Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/rothkopainting.html">rothkopainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/rothkopainting.css">rothkopainting.css</a>
+- Rothko Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/rothkopainting.html">rothkopainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/rothkopainting.css">rothkopainting.css</a>
 
-- Photo Gallery: <a href="https://github.com/bcflores11/free.code.camp/blob/main/photogallery.html">photogallery.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/photogallery.css">photogallery.css</a>
+- Photo Gallery: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/photogallery.html">photogallery.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/photogallery.css">photogallery.css</a>
 
-- Nutrition Label: <a href="https://github.com/bcflores11/free.code.camp/blob/main/nutritionlabel.html">nutritionlabel.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/nutritionlabel.css">nutritionlabel.css</a>
+- Nutrition Label: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/nutritionlabel.html">nutritionlabel.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/nutritionlabel.css">nutritionlabel.css</a>
 
 - Accessibility Quiz: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/accessibilityquiz.html">accessibilityquiz.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/accessibilityquiz.css">accessibilityquiz.css</a>
 
-- Tribute Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.html">tributepage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/tributepage.css">tributepage.css</a>
+- Tribute Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/tributepage.html">tributepage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/tributepage.css">tributepage.css</a>
 
-- Ballance Sheet: <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.html">ballancesheet.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/ballancesheet.css">ballancesheet.css</a>
+- Ballance Sheet: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ballancesheet.html">ballancesheet.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ballancesheet.css">ballancesheet.css</a>
 
 - Cat Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.html">catpainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.css">catpainting.css</a>
 
