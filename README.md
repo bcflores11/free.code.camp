@@ -33,3 +33,5 @@
 - City Skyline: <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.html">cityskyline.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.css">cityskyline.css</a>
 
 - Magazine: <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.html">magazine.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.css">magazine.css</a>
+
+- Product Landing Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/productlandingpage.html">productlandingpage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/productlandingpage.css">productlandingpage.css</a>
