@@ -24,14 +24,14 @@
 
 - Ballance Sheet: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ballancesheet.html">ballancesheet.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ballancesheet.css">ballancesheet.css</a>
 
-- Cat Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.html">catpainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/catpainting.css">catpainting.css</a>
+- Cat Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catpainting.html">catpainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catpainting.css">catpainting.css</a>
 
-- Piano: <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.html">piano.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/piano.css">piano.css</a>
+- Piano: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/piano.html">piano.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/piano.css">piano.css</a>
 
-- Tim Cook Biography: <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.html">timcook.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/timcook.css">timcook.css</a>
+- Tim Cook Biography: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/timcook.html">timcook.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/timcook.css">timcook.css</a>
 
-- City Skyline: <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.html">cityskyline.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/cityskyline.css">cityskyline.css</a>
+- City Skyline: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/cityskyline.html">cityskyline.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/cityskyline.css">cityskyline.css</a>
 
-- Magazine: <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.html">magazine.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/magazine.css">magazine.css</a>
+- Magazine: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/magazine.html">magazine.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/magazine.css">magazine.css</a>
 
-- Product Landing Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/productlandingpage.html">productlandingpage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/productlandingpage.css">productlandingpage.css</a>
+- Product Landing Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/productlandingpage.html">productlandingpage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/productlandingpage.css">productlandingpage.css</a>
