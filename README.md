@@ -2,7 +2,7 @@
 
 <h3>Responsive Web Design</h3>
 
-- Cat App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/catapp.html">catapp.html</a>
+- Cat App: <a href="[https://github.com/bcflores11/free.code.camp/blob/main/catapp.html](https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catapp.html">catapp.html</a>
 
 - Cafe Menu: <a href="https://github.com/bcflores11/free.code.camp/blob/main/cafemenu.html">cafemenu.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/cafemenu.css">cafemenu.css</a>
 
