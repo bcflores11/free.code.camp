@@ -1,4 +1,4 @@
-<h1>These are all of my codes for freecodecamp(🔥)</h1>
+<h1>This is a list of all of my codes from freecodecamp(🔥)</h1>
 
 <h3>Responsive Web Design</h3>
 
