@@ -35,3 +35,5 @@
 - Magazine: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/magazine.html">magazine.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/magazine.css">magazine.css</a>
 
 - Product Landing Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/productlandingpage.html">productlandingpage.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/productlandingpage.css">productlandingpage.css</a>
+
+- Ferris Wheel: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ferriswheel.html">ferriswheel.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ferriswheel.css">ferriswheel.css</a>
