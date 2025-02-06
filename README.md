@@ -39,3 +39,5 @@
 - Ferris Wheel: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ferriswheel.html">ferriswheel.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/ferriswheel.css">ferriswheel.css</a>
 
 - Waving Penguin: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/wavingpenguin.html">wavingpenguin.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/wavingpenguin.css">wavingpenguin.css</a>
+
+- Personal Portfolio: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/personalportfolio.html">personalportfolio.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/personalportfolio.css">personalportfolio.css</a>
