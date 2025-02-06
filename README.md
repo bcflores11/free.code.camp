@@ -10,7 +10,7 @@
 
 - Registration Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/registrationform.html">registrationform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/registrationform.css">registrationform.css</a>
 
-- Build A Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildaserveyform.html">buildasurveyform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildasurveyform.css">buildasurveyform.css</a>
+- Build A Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildasurveyform.html">buildasurveyform.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/buildasurveyform.css">buildasurveyform.css</a>
 
 - Rothko Painting: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/rothkopainting.html">rothkopainting.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/rothkopainting.css">rothkopainting.css</a>
 
