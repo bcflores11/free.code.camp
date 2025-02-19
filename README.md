@@ -45,3 +45,5 @@
 - My Certification: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/responsivewebdesigncertifion.png">responsivewebdesigncertifion.png</a>
 
 <h3>JavaScript Algorithms & Data Structures</h3>
+
+- Pyramid Generator: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/pyramidgenerator.js">pyramidgenerator.js</a>
