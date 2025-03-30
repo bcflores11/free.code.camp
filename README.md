@@ -51,3 +51,5 @@
 - Gradebook App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/gradebook.js">gradebook.js</a>
 
 - Role Playing Game: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.html">rpg.html</a>, <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.css">rpg.css</a>, & <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.js">rpg.js</a>
+
+<h3>Certified Full Stack Developer Curriculum</h3>
