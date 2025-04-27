@@ -1,6 +1,6 @@
 <h1>This is a list of all of my codes from freecodecamp(🔥)</h1>
 
-<h3>Responsive Web Design</h3>
+<h2>Responsive Web Design</h2>
 
 - Cat Photo App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catapp.html">catapp.html</a>
 
@@ -44,7 +44,7 @@
 
 - My Certification: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/responsivewebdesigncertifion.png">responsivewebdesigncertifion.png</a>
 
-<h3>JavaScript Algorithms & Data Structures</h3>
+<h2>JavaScript Algorithms & Data Structures</h2>
 
 - Pyramid Generator: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/pyramidgenerator.js">pyramidgenerator.js</a>
 
@@ -52,11 +52,11 @@
 
 - Role Playing Game: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.html">rpg.html</a>, <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.css">rpg.css</a>, & <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.js">rpg.js</a>
 
-<h3>Certified Full Stack Developer Curriculum</h3>
+<h2>Certified Full Stack Developer Curriculum</h2>
 
-<h4>HTML</h4>
+<h3>HTML</h3>
 
-<h5>Basic HTML</h5>
+<h4>Basic HTML</h4>
 
 - Cat Photo App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/catphotoapp.html">catphotoapp.html</a>
 
