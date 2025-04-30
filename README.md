@@ -65,3 +65,5 @@
 - Hawaii Travel Agency Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/travelagencypage.html">travelagencypage.html</a>
 
 - Lamine Yamal Video Compilation Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/videocompilationpage.html">videocompilationpage.html</a>
+
+<h4>Semantic HTML</h4>
