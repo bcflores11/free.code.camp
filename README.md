@@ -67,3 +67,5 @@
 - Lamine Yamal Video Compilation Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/videocompilationpage.html">videocompilationpage.html</a>
 
 <h4>Semantic HTML</h4>
+
+- Cat Blog Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/catblogpage.html">catblogpage.html</a>
