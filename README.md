@@ -71,3 +71,6 @@
 - Cat Blog Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/catblogpage.html">catblogpage.html</a>
 
 - Event Hub: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/eventhub.html">eventhub.html</a>
+
+<h4>Forms and Tables</h4>
+
