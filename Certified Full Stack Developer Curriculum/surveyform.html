@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 id="title">Account Sign-Up Form</h1>
+    <p id="description">Use this form to get started with your account</p>
+    <form id="survey-form">
+      <label id="name-label">Name: <input id="name" type="text"  placeholder="Milo" required  /></label>
+      <label id="email-label">Email: <input id="email" type="email" placeholder="milo1@home.com" required /></label>
+      <label id="number-label">Age (optional): <input id="number" type="number" min="13" max="90" placeholder="18" /></label>
+      <label>Account type:<input type="radio" checked value="account" name="account" />Personal <input type="radio" value="account" name="account" />Business <input type="radio" value="account" name="account" />Other</label>
+      <label>How did you hear about us?
+        <select id="dropdown">
+          <option>(select one)</option>
+          <option>A Friend</option>
+          <option>Social Media</option>
+          <option>Other</option>
+        </select>
+      </label>
+      <label for="terms-and-conditions">
+        <input type="checkbox" value="terms" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>
+      </label>
+      <label for="terms-and-conditions">
+        <input type="checkbox" value="responsible" required /> I will be responsible</a>
+      </label>
+      <label>Provide a bio:
+          <textarea rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>
+      </label>
+       <input type="submit" value="Submit" id="submit" />
+    </form>
+  </body>
+</html>
