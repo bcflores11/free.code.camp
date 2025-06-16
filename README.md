@@ -79,3 +79,5 @@
 - Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/surveyform.html">surveyform.html</a>
 
 - Final Exam Table: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/finalexamtable.html">finalexamtable.html</a>
+
+- Book Catalog: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/bookcatalog.html">bookcatalog.html</a>
