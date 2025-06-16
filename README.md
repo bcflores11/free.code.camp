@@ -77,3 +77,5 @@
 - Feedback Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/feedbackform.html">feedbackform.html</a>
 
 - Survey Form: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/surveyform.html">surveyform.html</a>
+
+- Final Exam Table: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/finalexamtable.html">finalexamtable.html</a>
