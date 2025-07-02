@@ -87,3 +87,5 @@
 <h4>Accessibility</h4>
 
 - Checkout Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/checkoutpage.html">checkoutpage.html</a>
+
+- Movie Review Page: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/moviereview.html">moviereview.html</a>
