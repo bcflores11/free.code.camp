@@ -85,3 +85,5 @@
 - Book Catalog: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/bookcatalog.html">bookcatalog.html</a>
 
 <h4>Accessibility</h4>
+
+- Book Catalog: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/checkoutpage.html">checkoutpage.html</a>
