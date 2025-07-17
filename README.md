@@ -99,3 +99,5 @@
 - *There is no work for this section*
 
 <h4>Basic CSS</h4>
+
+- Cafe Menu: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/cafemenu.html">cafemenu.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/cafemenu.css">cafemenu.css</a>
