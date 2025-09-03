@@ -1,0 +1,27 @@
+.sub-item-link:hover {
+  color: rgb(135, 208, 232);
+}
+
+.sub-item-link:link {
+  color: darkblue;
+}
+
+.sub-item-link:visited {
+  color: rgb(0, 191, 255);
+}
+
+.sub-item-link:focus {
+  outline: 2px solid blue;
+}
+
+.sub-item-link:active {
+  color: lightblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
