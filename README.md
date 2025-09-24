@@ -103,3 +103,5 @@
 - Cafe Menu: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/cafemenu.html">cafemenu.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/cafemenu.css">cafemenu.css</a>
 
 - Buisness Card: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/businesscard.html">businesscard.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/businesscard.css">businesscard.css</a>
+
+- Blog Post Card: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/blogpostcard.html">blogpostcard.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/blogpostcard.css">blogpostcard.css</a>
