@@ -1,4 +1,5 @@
 <h1>This is a list of all of my codes from freecodecamp(🔥)</h1>
+<p>*this is only the work on actual coding lessons, not lectures, quizzes, reveiws, etc.*</p>
 
 <h2>Responsive Web Design</h2>
 
