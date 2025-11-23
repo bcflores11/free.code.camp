@@ -108,3 +108,11 @@
 - Buisness Card: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/businesscard.html">businesscard.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/businesscard.css">businesscard.css</a>
 
 - Blog Post Card: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/blogpostcard.html">blogpostcard.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/blogpostcard.css">blogpostcard.css</a>
+
+<h4>Design</h4>
+
+- *There is no work for this section*
+
+<h4>Absolute and Relative Units</h4>
+
+- Event Flyer: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/eventflyer.html">eventflyer.html</a> & <a href="https://github.com/bcflores11/free.code.camp/blob/main/Certified%20Full%20Stack%20Developer%20Curriculum/eventflyer.css">eventflyer.css</a>
