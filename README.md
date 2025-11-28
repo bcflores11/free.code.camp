@@ -4,6 +4,8 @@
 
 - Use outline for quicker navigation!
 
+- Please note that they are always adding more to the curriculum, so if I do not have it all, that is why.
+
 <h2>Responsive Web Design</h2>
 
 - Cat Photo App: <a href="https://github.com/bcflores11/free.code.camp/blob/main/Responsive%20Web%20Design/catapp.html">catapp.html</a>
