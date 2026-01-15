@@ -58,7 +58,7 @@
 
 - Role Playing Game: <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.html">rpg.html</a>, <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.css">rpg.css</a>, & <a href="https://github.com/bcflores11/free.code.camp/blob/main/JavaScript%20Algorithms%20%26%20Data%20Structures/rpg.js">rpg.js</a>
 
-<h2>Certified Full Stack Developer Curriculum</h2>
+<h2>Certified Full Stack Developer Curriculum (removed from curriculum)</h2>
 
 <h3>HTML</h3>
 
